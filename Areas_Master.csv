@@ -1,0 +1,150 @@
+﻿ShortName,LongName,ActiveStatus
+A,Los Angeles,Y
+D,Ventura/Oxnard,Y
+C,San Diego,Y
+B,Orange County,Y
+A,LA COUNTY 310/562,N
+B,"SB,OC,RS (AE)",N
+E,Chico (Northern Cal),Y
+Z,Eastern States,Y
+Y,Central States,Y
+WA,Washington,Y
+X,Mountain States,Y
+F,Fresno,Y
+G,San Bernardino/Riverside,Y
+H,High Desert,Y
+G,SAN BER/RIVERSIDE,N
+A2,SAN FERN/SANTA CLARITA,N
+A1,DOWNTOWN LA,N
+AK,Alaska,Y
+SD,North County San Diego,Y
+H1,Imperial County,Y
+K,Kern County,Y
+SF1,San Francisco,Y
+SF2,San Jose,Y
+SF3,Oakland,Y
+SF4,Sacramento,Y
+SF5,Stockton/Modesto,Y
+IL8,IL8 - Northern IL,Y
+OR,Oregon,Y
+NM,New Mexico,Y
+NV,Nevada,Y
+WI,Wisconsin,Y
+AZ,AZ,Y
+PA8,PA8 - Pennsylvania,Y
+TX,Texas,Y
+NC,North Carolina,Y
+GA11,GA11 - Georgia (South),Y
+NY,NY - Rest of New York,Y
+WY,Wyoming,Y
+TN,Tennessee,Y
+NJ10,NJ10 - South Jersey,Y
+CT,Connecticut,Y
+DE,Delaware,Y
+ME,Maine,Y
+MD,MD - Maryland - Statewide,Y
+MA,Massachusetts,Y
+LV,Las Vegas,Y
+CO,Colorado,Y
+ID,Idaho,Y
+MT,Montana,Y
+UT,Utah,Y
+FL,FL - Rest of Florida,Y
+AL,Alabama,Y
+AR,Arkansas,Y
+IN,Indiana,Y
+IA,Iowa,Y
+KS,Kansas,Y
+LA,Louisiana,Y
+MN,Minnesota,Y
+MS,Mississippi,Y
+MO,Missouri,Y
+NE,Nebraska,Y
+OK,Oklahoma,Y
+KY,Kentucky,Y
+MI,Michigan,Y
+OH,Ohio,Y
+SC,South Carolina,Y
+VA,Virginia,Y
+WV,West Virginia,Y
+ND,North Dakota,Y
+NH,New Hampshire,Y
+VT,Vermont,Y
+RI,Rhode Island,Y
+HI,Hawaii,Y
+Q,All Areas,Y
+PR,Puerto Rico,Y
+SoD,South Dakota,Y
+P,Pedestrian,N
+Natl,National,Y
+TX1,TX1-Houston,Y
+TX2,TX2-Dallas,Y
+TX3,TX3-Austin,Y
+TX4,TX4-Waco,Y
+TX5,TX5-Harlingen,Y
+TX6,TX6-San Antonio,Y
+FL1,FL1-  Miami -Ft Lauderdale,Y
+LA1,LosAngeles - Ancillary,N
+AZ1,"AZ1 - Maricopa,Pinal, Yavapi",Y
+AZ2,"AZ2 - Pima, Santa Cruz",Y
+FL2 ,FL2 - Fort Myers,Y
+FL3,FL3 - Tampa,Y
+FL4,FL4 - Orlando,Y
+FL5,FL5 - Jacksonville,Y
+FL6,FL6 - Panhandle,Y
+FL7,FL7 - Gainesville,Y
+NY1,NY1 - 5 Boroughs,Y
+NY2,NY2 - Hempstead,Y
+NY3,NY3 - Buffalo,Y
+NY4,NY4 - Rochester,Y
+NY5,NY5 - Syracuse,Y
+NY6,NY6 - Albany,Y
+NY7,NY7 - Yonkers,Y
+NY8,NY8 - Utica,Y
+NY9,NY9 - Ithaca,Y
+NY10,NY10 - Northern NY,Y
+AZ3,"AZ3 - La Paz, Yuma",Y
+AZ4,"AZ4 - Coconino, Mohave",Y
+NJ1,NJ1 - Jersey City,Y
+NJ2,NJ2 - Trenton,Y
+NJ3,NJ3 - Elizabeth,Y
+NJ4,NJ4 - Newark,Y
+NJ5,NJ5 - Newton,Y
+NJ6,NJ6 - Paterson,Y
+NJ7,NJ7 - Toms River,Y
+NJ8,NJ8 - Camden,Y
+NJ9,NJ9 - North Jersey,Y
+IL1,IL1 - Chicago,Y
+IL2,IL2 - Dupage,Y
+IL3,IL3 - Rockford,Y
+IL4,IL4 - Peoria,Y
+IL5,IL5 - Springfield,Y
+IL6,IL6 - Champaign,Y
+IL7,IL7 - Southern IL,Y
+GA1,GA1 - Atlanta,Y
+GA2,GA2 - Dekalb,Y
+GA3,GA3 - Marietta,Y
+GA4,GA4 - Savannah,Y
+GA5,GA5 - Columbus,Y
+GA6,GA6 - Agusta,Y
+GA7,GA7 - Athens,Y
+GA8,GA8 - Macon,Y
+GA9,GA9 - Albany,Y
+GA10,GA10 - Georgia (North),Y
+MD1,MD1 - Rockville/Bethesda,Y
+MD2,MD2 - Maryland (West),Y
+MD3,MD3 - Baltimore,Y
+MD4,MD4 - Maryland (Central),Y
+MD5,MD5 - Maryland (South),Y
+MD6,MD6 - Maryland (East),Y
+PA1,PA1 - Pittsburg,Y
+PA2,PA2 - Erie (Northeast),Y
+PA3,PA3 - Scranton,Y
+PA4,PA4 - Philadelphia,Y
+PA5,PA5 - Lancaster/Reading,Y
+PA6,PA6 - Harrisburg,Y
+PA7,PA7 - Allentown,Y
+GA,GA - Georgia - Statewide,Y
+IL,IL - Illinois - Statewide,Y
+NJ,NJ - New Jersey - Statewide,Y
+PA,PA - Pennsylvania - Statewide,Y
